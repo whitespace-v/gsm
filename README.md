@@ -31,5 +31,7 @@ To get the major/minor numbers of a connected device you can cat the device data
 
 `-b` - baudrate (скорость передачи данных), default value: 9600
  [Datasheet](obsidian://open?vault=Mass%20storage&file=PAYWHALE%2FMicrosoft%20Word%20-%20SIM800C_Hardware_Design_V1.02-150427.doc%20-%20SIM800C_Hardware_Design_V1.02.pdf) : Autobauding supports the following baud rates: 1200, 2400, 4800, 9600, 19200, 38400, 57600 and 115200bps
+ 
  `-o` - option, set an option
+ 
  `-D` - Device, select device
